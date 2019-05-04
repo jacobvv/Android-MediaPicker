@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="photo"
+        path="jacob/files/jacob_photos" />
+    <external-cache-path
+        name="photo_cache"
+        path="photos" />
+</paths>

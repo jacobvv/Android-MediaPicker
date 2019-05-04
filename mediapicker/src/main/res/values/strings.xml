@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">MediaPicker</string>
+    <string name="app_name">Media Picker</string>
+    <string name="des_item_image">Image of item.</string>
+    <string name="btn_text_down">Down</string>
+    <string name="btn_text_down_count">Down%s</string>
+    <string name="pick_title_def">All Pictures</string>
+    <string name="pick_album_num">%d photos</string>
+    <string name="error_limit">Choose up to %d pictures.</string>
+    <string name="permission">Permission denied!</string>
+    <string name="no_camera">No camera app installed.</string>
+    <string name="error_create_dir">Create directory FAILED!</string>
+    <string name="error_path">Path is exist and is NOT a directory!</string>
 </resources>

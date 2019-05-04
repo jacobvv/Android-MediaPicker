@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="checkbox" format="reference" />
+    <attr name="checkbox_single" format="reference" />
+
+    <declare-styleable name="RatioImageView">
+        <attr name="ratio" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="PlaceHolderView">
+        <attr name="widthRatio" format="float" />
+        <attr name="heightRatio" format="float" />
+    </declare-styleable>
+
+    <declare-styleable name="RatioConstraintLayout">
+        <attr name="dimensionRatio" format="string" />
+    </declare-styleable>
+
+</resources>
